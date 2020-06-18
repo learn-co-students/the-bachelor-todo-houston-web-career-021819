@@ -1,5 +1,10 @@
-def get_first_name_of_season_winner(data, season)
-  # code here
+def get_first_name_of_season_winner(data, season){
+  :data => {
+    "season": "winter"
+    "wheather": "cold"
+  }
+}
+  
 end
 
 def get_contestant_name(data, occupation)
